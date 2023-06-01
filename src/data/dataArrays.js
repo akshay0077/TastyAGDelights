@@ -7,7 +7,7 @@ export const categories = [
   },
   {
     id: 1,
-    name: 'Mexican Food',
+    name: 'Indian snacks',
     photo_url: 'https://ak1.picdn.net/shutterstock/videos/19498861/thumb/1.jpg'
   },
   {
@@ -20,7 +20,7 @@ export const categories = [
     id: 4,
     name: 'Smoothies',
     photo_url:
-    'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/still-life-of-three-fresh-smoothies-in-front-of-royalty-free-image-561093647-1544042068.jpg?crop=0.715xw:0.534xh;0.0945xw,0.451xh&resize=768:*'
+    'https://ak1.picdn.net/shutterstock/videos/19498861/thumb/1.jpg'
   },
   {
     id: 0,
@@ -33,29 +33,42 @@ export const recipes = [
   {
     recipeId: 122,
     categoryId: 3,
-    title: 'Oatmeal Cookies',
-    photo_url: 'https://www.texanerin.com/content/uploads/2019/06/nobake-chocolate-cookies-1-650x975.jpg',
+    title: 'Khaman Dhokla',
+    photo_url: 'https://cdn2.foodviva.com/static-content/food-images/snacks-recipes/khaman-dhokla-recipe/khaman-dhokla-recipe.jpg',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2019/06/nobake-chocolate-cookies-1-650x975.jpg',
-      "https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg",
-      'https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width600/img/news_impact/photo/burger-fijpg-57e7e5907630c2ad.jpg',
-      'https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492718105/articles/2013/09/24/burger-king-s-new-french-fries-took-ten-years-to-develop/130923-gross-burger-tease_izz59e',
-      'https://aht.seriouseats.com/images/2012/02/20120221-193971-fast-food-fries-Burger-King-fries-2.jpg'
+      'https://vismaifood.com/storage/app/uploads/public/ca9/394/8cd/thumb__700_0_0_0_auto.jpg',
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxwdZTDGZ9RQeWHwhGCyuqvbfqTH-HuLKxtQ&usqp=CAU",
+      'https://www.archanaskitchen.com/images/archanaskitchen/Indian_Appetizers/Preethi_Kitchen_Appliance_Khaman_Dhokla_From_Chana_dal_Recipe_Gujarati_Video-2.jpg',
+      'https://www.chefkunalkapur.com/wp-content/uploads/2021/07/Dhokla-Recipe-1300x731.jpg?v=1625419391',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVHiCAKpwpKV0TFPtHyZ-rmClJFJ0RWOrzg&usqp=CAU'
     ],
-    time: '15',
-    ingredients: [[0, '200ml'], [1, '5g'], [2, '300g']],
+    time: '20-30',
+    ingredients: [
+      [0, '1 કપ ચણાનો લોટ (બેસન)'],
+      [1, '100 g'],
+      [2, '300g']
+      [16, '1'],
+      [12, '1 cup'],
+      [18, '1 cup'],
+      [19, '1 teaspoon'],
+      [1, '2 teaspoons'],
+      [4, '1/4 teaspoons'],
+      [7, '1/8 teaspoons'],
+      [20, '1/2 teaspoons'],
+      [21, '4']
+    ],
     description:
-      '-- Start with cleaned and peeled russet potatoes that you have cut into 3/8-inch match sticks. Place in bowl of very cold water: keep rinsing and changing the water until the water is clear; drain thoroughly and dry with paper towels or a clean lint-free kitchen towel.\n\n -- Meanwhile, you preheat your hot oil to 350 degrees F. Place prepared taters in oil and cook about 5 minutes. They will have that blond-tone color to them. \n\n -- Note: Once you add cold potatoes to the hot oil, the temperature of your oil is going to drop - you want it to be somewhere between 330 - 325 degrees F. \n\n -- Remove from oil; drain and cool. Now - either refrigerate until ready to finish cooking, or cool completely and freeze up to 3 months. To freeze properly - place completely cooled fries in single layer on tray and place in freezer until frozen. Then bag them.\n\n -- To finish cooking - preheat your oil to 400* F. Add your cold fries (which will drop the oil temp - which is fine because you want it near the 375 degrees F. temp) and cook a few minutes until done. Lightly salt them and shake well so that the salt distributes well and they are not salty.'
+      '1. બેટર તૈયાર કરો: 1 કપ ચણાનો લોટ (બેસન), 1 ચમચી સૂજી , 1 ટેબલસ્પૂન દહીં, 1 ચમચી આદુ-લીલા મરચાની પેસ્ટ, 1 ટેબલસ્પૂન લીંબુનો રસ, 1 ચમચી ખાંડ, 1 ચમચી મિક્સ કરો. મીઠું, અને 1 કપ પાણી. સ્મૂધ બેટર બનાવવા માટે સારી રીતે મિક્સ કરો.\n\n 2. ટેમ્પરિંગ ઘટકો ઉમેરો: એક પેનમાં 2 ચમચી તેલ ગરમ કરો. 1 ચમચી સરસવના દાણા ઉમેરો અને તેને તડતડ થવા દો. પછી તેમાં 1 ચમચી તલ અને એક ચપટી હિંગ ઉમેરો. થોડીક સેકંડ માટે હલાવો અને તાપ પરથી દૂર કરો.\n\n 3. સ્ટીમર તૈયાર કરો: સ્ટીમર અથવા મોટા વાસણને પાણીથી ભરો અને તેને ઉકાળો. ઢોકળા ની થાળી અથવા સ્ટીમરની અંદર બંધબેસતી છીછરી વાનગીને ગ્રીસ કરો. \n\n 4. બેટરને સ્ટીમ કરો: બેટરમાં 1 ચમચી ઈનો ફ્રુટ સોલ્ટ ઉમેરો અને સારી રીતે મિક્સ કરો. બેટરને ગ્રીસ કરેલી ડીશમાં રેડો અને તેને સ્ટીમરની અંદર મૂકો. લગભગ 15-20 મિનિટ સુધી અથવા ઢોકળામાં ટૂથપીક નાખવામાં આવે ત્યાં સુધી સ્ટીમ કરો. \n\n 5. ટેમ્પરિંગ તૈયાર કરો: એક નાની કડાઈમાં 2 ચમચી તેલ ગરમ કરો. 1 ચમચી સરસવના દાણા ઉમેરો અને તેને તડતડ થવા દો. પછી તેમાં 1 ચમચી તલ, એક ચપટી હિંગ અને થોડા કઢીના પાન ઉમેરો. થોડીક સેકંડ માટે હલાવો અને તાપ પરથી દૂર કરો. \n\n 6. ગાર્નિશ કરીને સર્વ કરો: ઢોકળા બાફવા અને બફાઈ જાય એટલે તેને સ્ટીમરમાંથી કાઢી લો. ઢોકળા ઉપર તૈયાર કરેલ ટેમ્પરિંગ રેડો. જો ઇચ્છા હોય તો સમારેલી કોથમીર અને છીણેલું નારિયેળ વડે ગાર્નિશ કરો. ઢોકળાને ચોરસ અથવા હીરાના આકારમાં કાપીને લીલી ચટણી અથવા આમલીની ચટણી સાથે સર્વ કરો. \n\n તમારા સ્ટીમર અને બેટરની જાડાઈ પ્રમાણે રસોઈનો સમય ગોઠવવાનું યાદ રાખો. ઉલ્લેખિત સમય અંદાજિત માર્ગદર્શિકા છે. ઢોકળામાં ટૂથપીક નાખીને તે રાંધવામાં આવે છે તેની ખાતરી કરવા માટે તે હંમેશા શ્રેષ્ઠ છે.'
   },
   {
     recipeId: 3,
     categoryId: 4,
-    title: 'Triple Berry Smoothie',
+    title: 'Milkshake ',
     photo_url:
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
+      'https://preppykitchen.com/wp-content/uploads/2021/04/Milkshake-Recipe-Card.jpg',
     photosArray: [
-      'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-a-smoothie-horizontal-1542310071.png?crop=0.803xw:0.923xh;0.116xw,0.00510xh&resize=768:*',
-      'https://www.vitamix.com/media/other/images/xVitamix-Triple-Berry-Smoothie-square-crop__1.jpg.pagespeed.ic.OgTC3ILD3R.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe17aWU50YBMkKZrAVURQKKiMvdlM-fUid8Q&usqp=CAU',
+      'https://www.spendwithpennies.com/wp-content/uploads/2019/09/Chocolate-Milkshake-SpendWithPennies-2.jpg',
       'http://images.media-allrecipes.com/userphotos/960x960/3798204.jpg',
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzui8MM6W66I29VZwVvcjpGv99JW3O1owgupc3KwB65rhAyrZ'
     ],
@@ -64,21 +77,23 @@ export const recipes = [
       [59, '1'],
       [60, '1/2 lbs'],
       [61, '1/2 liters'],
+      [48, '50g'],
+      [49, '100g'],
     ],
-    description: 'In a blender, combine all ingredients and blend until smooth. Then divide between 2 cups and top with blackberries, if desired.'
+    description: '1. તમારી સામગ્રીઓ ભેગી કરો: તમારે 2 કપ આઈસ્ક્રીમ (તમારી પસંદગીનો સ્વાદ), 1 કપ દૂધ, અને કોઈપણ વધારાના ફ્લેવરિંગ અથવા ટોપિંગ્સ (દા.ત., ચોકલેટ સીરપ, ફળો, વ્હીપ્ડ ક્રીમ)ની જરૂર પડશે. \n\n 2. ઘટકોને બ્લેન્ડ કરો: આઈસ્ક્રીમ અને દૂધને બ્લેન્ડરમાં મૂકો. જો તમે ચોકલેટ સિરપ અથવા ફળો જેવા કોઈપણ સ્વાદ અથવા ટોપિંગ ઉમેરવા માંગતા હો, તો તેને પણ આ તબક્કે ઉમેરો. સુંવાળી અને સારી રીતે જોડાઈ જાય ત્યાં સુધી બધું ભેળવી દો. \n\n 3. સુસંગતતા વ્યવસ્થિત કરો: જો મિલ્કશેક ખૂબ જાડું હોય, તો તમે થોડું વધુ દૂધ ઉમેરી શકો છો અને જ્યાં સુધી તમે ઇચ્છિત સુસંગતતા સુધી પહોંચો નહીં ત્યાં સુધી ફરીથી મિશ્રણ કરી શકો છો. જો તે ખૂબ જ પાતળું હોય, તો તમે વધુ આઈસ્ક્રીમ ઉમેરી શકો છો અથવા કેટલાક ભૂકો કરેલા બરફમાં મિશ્રણ કરી શકો છો. \n\n 4. સર્વ કરો અને ગાર્નિશ કરો: મિલ્કશેકને એક ગ્લાસમાં રેડો અને કોઈપણ ઇચ્છિત ગાર્નિશ જેમ કે વ્હીપ્ડ ક્રીમ, ચોકલેટ સીરપની ઝરમર ઝરમર અથવા સમારેલા ફળો ઉમેરો. વધારાની સજાવટ માટે તમે તેને ચેરી અથવા છંટકાવ સાથે પણ ટોચ પર મૂકી શકો છો. \n\n તમારા બ્લેન્ડરની શક્તિ અને કાર્યક્ષમતા તેમજ તમે જે વધારાના પગલાં અથવા ઘટકોનો સમાવેશ કરવાનું પસંદ કરો છો તેના આધારે જરૂરી સમય થોડો બદલાઈ શકે છે. જો કે, સામાન્ય રીતે, હોમમેઇડ મિલ્કશેક બનાવવી એ એક ઝડપી અને સરળ પ્રક્રિયા છે જે થોડી મિનિટોમાં કરી શકાય છે.'
   },
   {
     recipeId: 2,
     categoryId: 3,
-    title: 'Vegan Cookies',
+    title: 'Nan Khatai',
     photo_url: 'https://www.texanerin.com/content/uploads/2018/06/no-bake-lactation-cookies-1-650x975.jpg',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2018/06/no-bake-lactation-cookies-1-650x975.jpg',
-      'https://ichef.bbci.co.uk/news/660/cpsprodpb/B2C0/production/_106106754_vegnuggets976.jpg',
-      'https://pixel.nymag.com/imgs/daily/grub/2017/11/22/22-mcds-chicken-tenders.w330.h330.jpg',
-      'https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-img.health.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge_16_9%2Fpublic%2Fstyles%2Fmain%2Fpublic%2Fgettyimages-508510211.jpg%3Fitok%3Dh-Uryi8r&w=400&c=sc&poi=face&q=85'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj74eFtyEdbz_AEmCJRFVK3XwOvM0q66SqiA&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlOOZqxl6iLx4zPKgvioesX5ZG08y38WshQ&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2LokfX6MtifqVWH0gEGKkN-LjrMERMLSlPg&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRks3TxzoxFXX1gDi0JHvjd63hnn6-DuKoEdg&usqp=CAU'
     ],
-    time: '30',
+    time: '30-40',
     ingredients: [
       [0, '2 quarts'],
       [16, '1'],
@@ -92,111 +107,87 @@ export const recipes = [
       [21, '4']
     ],
     description:
-      '-- Beat the egg and then combine it with water in a bowl. Stir. Combine the flour, salt, MSG, pepper, onion powder and garlic powder in a gallon size zip lock bag. Pound each of the breast filets until about 1/4-inch thick. Then cut into bite sized pieces. Coat each piece with the flour mixture by shaking in the zip lock bag. Remove and coat in the egg mixture. Then coat in the flour mixture again. Shake to coat. Deep fry at 375 degrees for 10-12 minutes, until browned and crispy.'
+      '1. તમારી સામગ્રી ભેગી કરો: તમારે 1 કપ સર્વ-હેતુનો લોટ (મેઇડ), ½ કપ સ્પષ્ટ માખણ (ઘી), ½ કપ પાઉડર ખાંડ, ¼ ચમચી બેકિંગ પાવડર, ¼ ચમચી એલચી પાવડર, એક ચપટી મીઠું, અને થોડા સમારેલા બદામની જરૂર પડશે. (ગાર્નિશ માટે વૈકલ્પિક) \n\n 2. કણક તૈયાર કરો: એક મિક્સિંગ બાઉલમાં, સ્પષ્ટ માખણ (ઘી) અને પાઉડર ખાંડને હળવા અને રુંવાટીવાળું થાય ત્યાં સુધી ક્રીમ કરો. એલચી પાવડર ઉમેરીને બરાબર મિક્ષ કરો. એક અલગ બાઉલમાં, સર્વ-હેતુનો લોટ, બેકિંગ પાવડર અને એક ચપટી મીઠું એકસાથે ચાળી લો. માખણ-ખાંડના મિશ્રણમાં ધીમે ધીમે લોટનું મિશ્રણ ઉમેરો અને નરમ કણક બનાવવા માટે હળવા હાથે ભેળવો. \n\n 3. કૂકીઝને આકાર આપો: તમારા ઓવનને 180°C (350°F) પર પહેલાથી ગરમ કરો. કણકના નાના ભાગો લો અને તેને ગોળાકાર અથવા અંડાકાર કૂકીઝનો આકાર આપો. તમે તેમને સહેજ સપાટ કરી શકો છો અને કાંટો વડે ટોચ પર ક્રિસક્રોસ પેટર્ન બનાવી શકો છો. આકારની કૂકીઝને ગ્રીસ કરેલી બેકિંગ ટ્રે પર મૂકો અથવા ચર્મપત્ર કાગળથી લાઇન કરો. કૂકીઝ વચ્ચે થોડી જગ્યા છોડો કારણ કે તે બેક કરતી વખતે સહેજ ફેલાશે. વૈકલ્પિક રીતે, કુકીઝને સમારેલા બદામથી ગાર્નિશ કરો. \n\n 4.નાન ખટાઈને બેક કરો: બેકિંગ ટ્રેને પહેલાથી ગરમ કરેલા પકાવવાની નાની ભઠ્ઠીમાં મૂકો અને લગભગ 15-20 મિનિટ અથવા કૂકીઝની કિનારીઓ ગોલ્ડન બ્રાઉન થાય ત્યાં સુધી બેક કરો. તેમના પર નજર રાખો કારણ કે પકવવાનો સમય બદલાઈ શકે છે. બેક થઈ જાય પછી, ટ્રેને ઓવનમાંથી કાઢી લો અને કૂકીઝને વાયર રેક પર ઠંડી થવા દો. \n\n 5. સર્વ કરો અને સ્ટોર કરો: એકવાર નાન ખટાઈ કૂકીઝ સંપૂર્ણપણે ઠંડુ થઈ જાય, તે પીરસવા માટે તૈયાર છે. તેઓ એક ક્ષીણ થઈ ગયેલી રચના ધરાવે છે અને ચા અથવા કોફીના કપ સાથે આનંદ માણવા માટે યોગ્ય છે. કોઈપણ બચેલી કૂકીઝની તાજગી જાળવવા માટે હવાચુસ્ત પાત્રમાં સંગ્રહ કરો.'
   },
   {
     recipeId: 3,
     categoryId: 3,
-    title: 'Pumpkin Spice Cookies',
+    title: 'Khandvi Recipe',
     photo_url:
-      'https://www.texanerin.com/content/uploads/2018/11/pumpkin-spice-cookies-4-650x975.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_IJu0P_jK85hL25QIiyEBvamNe_-hht7WQQ&usqp=CAU',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2018/11/pumpkin-spice-cookies-4-650x975.jpg',
-      'https://cdn.junglecreations.com/wp/junglecms/2018/07/4164c5bd-wide-thumbnail.jpg',
-      'https://pinchofyum.com/wp-content/uploads/Crunchwrap-Inside.jpg',
-      'https://monsonmadethis.com/wp-content/uploads/2017/10/IMG_20171015_161017_025-e1533869302263.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwyeW5kWz1wFUPPsUfV1TQFfpeslLQXNEYGf1GOi4jdI-ShVASGeKni2LPrXc3XSbmSM&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0uJN2m-6iRUvfsJyg7RdnBQspgkWzDxf1D9AoPfGR0jpgyxh9o9R-XKfci0S-yxeS7A&usqp=CAU',
+      'https://pipingpotcurry.com/wp-content/uploads/2021/02/Gujarati-Khandvi-Piping-Pot-Curry-3.jpg',
+      'https://www.vegrecipesofindia.com/wp-content/uploads/2014/07/khandvi.jpg'
     ],
-    time: '45',
+    time: '30-45',
     ingredients: [
       [0, '2 tablespoons'],
       [22, '1/2'],
       [23, '2 tablespoons'],
-      [7, '2 cloves'],
       [3, '1 teaspoon'],
       [24, '1 tablespoon'],
-      [25, '1 lb'],
-      [1, '2 teaspoons'],
       [4, '2 teaspoons'],
-      [26, '15 oz'],
-      [27, '8'],
-      [28, '2'],
-      [29, '1 cup']
     ],
     description:
-      '-- In a medium pot over medium heat, heat 1 tablespoon oil. Add onion and cook until soft, 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat onion and garlic. Add ground beef and cook, breaking up meat with a wooden spoon, until no longer pink, 6 minutes. Drain fat.\n\n -- Return beef to pot and season with chili powder, paprika, salt, and pepper. Add tomato sauce and kidney beans. Bring to a boil, then reduce heat and let simmer 15 minutes. Add some chili to center of each tortilla, leaving room to fold in edges. Top with Fritos, then cheddar. Fold edges of tortillas toward the center, creating pleats. Invert Crunchwraps so pleats are on the bottom and stay together.\n\n -- In medium skillet over medium heat, heat remaining tablespoon oil. Add a Crunchwrap seam side down and cook until tortilla is golden, 3 to 5 minutes per side. Repeat with remaining Crunchwraps'
+      '1. બેટર તૈયાર કરો: બેસન (ચણાનો લોટ) અને દહીંને એકસાથે મિક્સ કરો, ખાતરી કરો કે ત્યાં કોઈ ગઠ્ઠો નથી. મિશ્રણમાં પાણી, હળદર પાવડર, આદુ-લીલા મરચાની પેસ્ટ અને મીઠું ઉમેરો. આ પગલું સામાન્ય રીતે લગભગ 5 મિનિટ લે છે. \n\n 2. બેટરને રાંધો: બેટરને નોન-સ્ટીક પેનમાં સ્થાનાંતરિત કરો અને તેને મધ્યમ તાપ પર રાંધો. ગઠ્ઠો અટકાવવા માટે સતત હલાવતા રહો અને રસોઈ પણ સુનિશ્ચિત કરો. સખત મારપીટ ઘટ્ટ થાય ત્યાં સુધી આ પગલું લગભગ 10 થી 15 મિનિટ લે છે. \n\n 3. સખત મારપીટ ફેલાવો: એકવાર સખત મારપીટ જાડા સુસંગતતા પર પહોંચી જાય, પછી તેને સ્પેટુલાનો ઉપયોગ કરીને પ્લેટ અથવા કાઉન્ટરટૉપ જેવી ગ્રીસ કરેલી સપાટી પર ઝડપથી ફેલાવો. તેને પાતળા અને સમાનરૂપે ફેલાવવાનો પ્રયાસ કરો. આ પગલું સામાન્ય રીતે લગભગ 5 મિનિટ લે છે. \n\n 4. તેને ઠંડુ થવા દો અને રોલ કરો: સ્પ્રેડ બેટરને લગભગ 10 થી 15 મિનિટ સુધી અથવા જ્યાં સુધી તે સ્પર્શ કરવા માટે મજબૂત ન થાય ત્યાં સુધી ઠંડુ થવા દો. ઠંડું થઈ જાય પછી, ખાંડવીને એક છેડેથી શરૂ કરીને ચુસ્ત રોલમાં ફેરવો. આ પગલામાં 5 થી 10 મિનિટ લાગી શકે છે. \n\n 5. ટેમ્પરિંગ તૈયાર કરો: એક નાની કડાઈમાં તેલ ગરમ કરો અને તેમાં સરસવ, તલ, કરી પત્તા અને લીલા મરચાં ઉમેરો. તેમને તિરાડ પડવા દો અને તેમના સ્વાદને છોડો. આ પ્રક્રિયા સામાન્ય રીતે 5 મિનિટ લે છે. \n\n 6. ખાંડવી રોલ્સમાં ટેમ્પરિંગ ઉમેરો: સ્વાદ અને ગાર્નિશ ઉમેરવા માટે રોલ્ડ ખાંડવી પર ટેમ્પરિંગ મિશ્રણ રેડો. આ પગલું માત્ર થોડી મિનિટો લે છે. \n\n એકંદરે, તમે ખાંડવી બનાવવા માટે, આરામ અને ઠંડકના સમયગાળાને બાદ કરતાં, લગભગ 30 થી 45 મિનિટનો સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 1,
     categoryId: 3,
-    title: 'Brownies',
-    photo_url: 'https://www.texanerin.com/content/uploads/2018/01/coconut-flour-brownies-1-650x975.jpg',
+    title: 'Farali Pattice',
+    photo_url: 'https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Reshma/Farali_Aaloo_Pattice.jpg',
     photosArray: [
-      'https://www.texanerin.com/content/uploads/2018/01/coconut-flour-brownies-1-650x975.jpg',
-      'https://images-gmi-pmc.edge-generalmills.com/6fbc6859-e2b1-499d-b0fa-ada600c9cc3f.jpg',
-      'http://www.recipe4living.com/assets/itemimages/400/400/3/83c29ac7418067c2e74f31c8abdd5a43_477607049.jpg',
-      'https://www.franchisechatter.com/wp-content/uploads/2014/08/KFC-Photo-by-James.jpg'
+      'https://www.nehascookbook.com/wp-content/uploads/2022/11/Farali-pattice-WS.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-1mh5jvnp0nBS34XYgFzfH3s6kTBO8Q0k0TaQarS87kp8BPpIVLXS3vLxA3sYK82hiU&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-gb1z1nsOuovXY_kGfDWC2iVVdGBMcMo1HxR7jiogQ5A9xaFJfby4gsb9H0tw3LcYeU&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL9I_m3zlbrANbpuThDCZuxSN1SPpnpt6KVn9YBfV-NiisfqEElnDWxV8ejsqRcS7jQ1g&usqp=CAU'
     ],
-    time: '30',
+    time: '45-60',
     ingredients: [
-      [1, '2 tablespoons'],
-      [3, '1 tablespoon'],
-      [4, '1 teaspoon'],
-      [5, '1/2 teaspoons'],
-      [6, '1/2 teaspoons'],
-      [7, '1/2 teaspoons'],
-      [8, '1/2 teaspoons'],
-      [9, '1/2 teaspoons'],
-      [10, '1/2 teaspoons'],
-      [11, '1/2 teaspoons'],
-      [12, '1/2 cups'],
-      [13, '1 tablespoon'],
-      [14, '1 tablespoon'],
-      [15, '2 breasts, 2 thighs, 2 drumsticks, 2 wings'],
-      [16, '1'],
-      [17, '2 quarts']
+      [61, '1 KG'],
+      [3, '100 ML'],
+      [62, '10g'],
+      [63, '5g'],
+      [5, '2 chamchi'],
+      [12, '10'],
+      [30,'1']
     ],
     description:
-      '-- Preheat fryer to 350°F. Thoroughly mix together all spices. Combine spices with flour, brown sugar and salt. Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken.\n\n -- Repeat with all the chicken pieces. Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit. Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165°F. Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot.'
+      '1. બટાકાને ઉકાળો અને મેશ કરો: બટાટા રાંધવામાં આવે ત્યાં સુધી તેને ઉકાળીને શરૂ કરો. આમાં સામાન્ય રીતે લગભગ 15 થી 20 મિનિટનો સમય લાગે છે. બટાકાની છાલ ઉકાળી લો અને તેને સ્મૂધ થાય ત્યાં સુધી મેશ કરો. આ પગલું લગભગ 5 મિનિટ લે છે. \n\n 2. ભરણ તૈયાર કરો: એક અલગ પેનમાં તેલ ગરમ કરો અને જીરું ઉમેરો. તડતડ થઈ જાય એટલે તેમાં છીણેલું આદુ, સમારેલા લીલા મરચાં અને વાટેલી મગફળી ઉમેરો. થોડીવાર સાંતળો અને પછી તેમાં છૂંદેલા બટાકા, મીઠું, ખાંડ, લીંબુનો રસ અને તમારા સ્વાદ અનુસાર કોઈપણ વધારાનો મસાલો અથવા સીઝનીંગ ઉમેરો. ફિલિંગ મિશ્રણને લગભગ 5 થી 10 મિનિટ સુધી રાંધો જ્યાં સુધી સ્વાદ સારી રીતે એકીકૃત ન થાય. આ પગલું લગભગ 15 મિનિટ લે છે. \n\n 3. પેટીસને આકાર આપો અને કોટ કરો: બટેટા ભરવાના મિશ્રણનો એક ભાગ લો અને તેને પેટીસ અથવા કટલેટનો આકાર આપો. બાકીના ભરણ સાથે પ્રક્રિયાને પુનરાવર્તિત કરો. આગળ, દરેક પૅટીને પાણીના ચેસ્ટનટ લોટ (સિંઘરે કા અટ્ટા) અને પાણીના મિશ્રણમાં ડુબાડીને તેને સરખી રીતે કોટ કરો. આ પગલું સામાન્ય રીતે લગભગ 10 મિનિટ લે છે. \n\n 4. પેટીસને ફ્રાય કરો: તળવા માટે એક ઊંડા પેનમાં અથવા તપેલીમાં તેલ ગરમ કરો. તેલ ગરમ થઈ જાય પછી, કાળજીપૂર્વક કોટેડ પેટીસ ઉમેરો અને તેને બંને બાજુથી ગોલ્ડન બ્રાઉન અને ક્રિસ્પી થાય ત્યાં સુધી તળો. પેટીસના કદ અને જાડાઈના આધારે આ પગલું સામાન્ય રીતે 5 થી 10 મિનિટ લે છે. \n\n 5. ડ્રેઇન કરો અને સર્વ કરો: પેટીસ રાંધ્યા પછી, તેને તેલમાંથી દૂર કરો અને વધારાનું તેલ દૂર કરવા માટે કાગળના ટુવાલ પર કાઢી લો. ફરાળી પેટીસને ચટણી અથવા દહીં સાથે ગરમાગરમ સર્વ કરો. \n\n એકંદરે, તમે ફરાળી પેટીસ બનાવવા માટે લગભગ 45 મિનિટથી 1 કલાક સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 4,
     categoryId: 1,
-    title: 'Perfect Fish Tacos',
-    photo_url: 'https://hips.hearstapps.com/hmg-prod/images/190307-fish-tacos-112-1553283299.jpg',
+    title: 'Lilva Kachori',
+    photo_url: 'https://www.vegrecipesofindia.com/wp-content/uploads/2018/01/gujarati-lilva-kachori-recipe-280x280.jpg',
     photosArray: [
-      'http://d2814mmsvlryp1.cloudfront.net/wp-content/uploads/2014/04/WGC-Fish-Tacos-copy-2.jpg',
-      'https://thecozyapron.com/wp-content/uploads/2018/03/baja-fish-tacos_thecozyapron_1.jpg',
-      'https://www.simplyrecipes.com/wp-content/uploads/2017/06/2017-07-22-FishTacos-6.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPc3EXWxG9vS-tMqBYSdeznxkBseQzuTP3Un5NtvNL0FfPuGfq-OftxjcR9ZFSIJ-7LI8&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_n3X-SP7tUq9tyFGJ_IZWLHcKE9gWVq0Cua28qshC0loJ-8gQIQkyms2D8fp4HrDnAiQ&usqp=CAU',
+      'https://img-global.cpcdn.com/recipes/48f9844570f874e6/680x482cq70/tuver-lilva-kachori-recipe-main-photo.jpg'
     ],
-    time: '35',
+    time: '60-80',
     ingredients: [
-      [30, 'jucie of 1 '],
-      [24, '2 teaspoons'],
-      [0, '3 tablespoons'],
       [3, '1 teaspoon'],
-      [31, '1/2 teaspoons'],
-      [32, '1/2 teaspoons'],
       [4, '2 teaspoons'],
-      [33, '1/2 lb'],
-      [27, '8'],
-      [14, '2 teasponns'],
-      [34, '1']
+      [66,'1kg']
     ],
     description:
-      '-- In a medium shallow bowl, whisk together olive oil, lime juice, paprika, chili powder, cumin, and cayenne. Add cod, tossing until evenly coated. Let marinate 15 minutes. Meanwhile, make slaw: In a large bowl, whisk together mayonnaise, lime juice, cilantro, and honey. Stir in cabbage, corn, and jalapeño. Season with salt and pepper.\n\n -- In a large nonstick skillet over medium-high heat, heat vegetable oil. Remove cod from marinade and season both sides of each filet with salt and pepper. Add fish flesh side-down. Cook until opaque and cooked through, 3 to 5 minutes per side.\n\n -- Let rest 5 minutes before flaking with a fork. Assemble tacos: Serve fish over grilled tortillas with corn slaw and avocado. Squeeze lime juice on top and garnish with sour cream. '
+      '1.કણક તૈયાર કરો: મક્કમ કણક બનાવવા માટે સર્વ-હેતુના લોટ (મેડા) ને મીઠું, તેલ અને પાણી સાથે ભેળવીને શરૂ કરો. કણક સુંવાળી અને સ્થિતિસ્થાપક બને ત્યાં સુધી ભેળવો. આ પગલું સામાન્ય રીતે લગભગ 10 થી 15 મિનિટ લે છે. \n\n 2. ભરણ બનાવો: એક અલગ બાઉલમાં, તાજા લીલા વટાણા (લીલવા), છીણેલું આદુ, લીલા મરચાં, હિંગ (હિંગ), હળદર પાવડર, લાલ મરચું પાવડર, ધાણા પાવડર, જીરું પાવડર, ગરમ મસાલો, મીઠું અને લીંબુનો રસ ભેગું કરો. . સ્વાદ સારી રીતે સમાવિષ્ટ છે તેની ખાતરી કરવા માટે સારી રીતે મિક્સ કરો. આ પગલું લગભગ 10 મિનિટ લે છે. \n\n 3. કચોરીને આકાર આપો અને સ્ટફ કરો: કણકને નાના ભાગોમાં વિભાજીત કરો અને તેને બોલમાં આકાર આપો. કણકનો એક બોલ લો અને તેને તમારા હાથથી ચપટી કરો. મધ્યમાં એક ચમચી લીલવા ભરણ મૂકો અને તેને સીલ કરવા માટે કિનારીઓને એકસાથે લાવો. બાકીના કણક અને ભરવા સાથે પ્રક્રિયાને પુનરાવર્તિત કરો. આ પગલું સામાન્ય રીતે લગભગ 20 થી 30 મિનિટ લે છે. \n\n 4. કચોરીને ફ્રાય કરો: તળવા માટે એક ઊંડા પેનમાં અથવા તપેલીમાં તેલ ગરમ કરો. એકવાર તેલ ગરમ થઈ જાય પછી, સ્ટફ્ડ કચોરીને કાળજીપૂર્વક ઉમેરો અને તેને મધ્યમ તાપ પર બંને બાજુથી ગોલ્ડન બ્રાઉન અને ક્રિસ્પી ન થાય ત્યાં સુધી તળો. કચોરીના કદ અને તેલની ગરમીના આધારે આ પગલું લગભગ 20 થી 30 મિનિટ લે છે. \n\n 5. નીચોવીને સર્વ કરો: કચોરી બફાઈ જાય પછી તેને તેલમાંથી કાઢી લો અને વધારાનું તેલ કાઢવા માટે કાગળના ટુવાલ પર કાઢી લો. લીલવા કચોરીને ચટણી અથવા દહીં સાથે ગરમાગરમ સર્વ કરો. \n\n એકંદરે, તમે લીલવા કચોરી બનાવવા માટે લગભગ 1 કલાક અને 30 મિનિટથી 2 કલાક સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 5,
     categoryId: 1,
-    title: 'Chicken Fajitas',
+    title: 'Indian Chakri',
     photo_url:
-      'https://tmbidigitalassetsazure.blob.core.windows.net/secure/RMS/attachments/37/1200x1200/Flavorful-Chicken-Fajitas_EXPS_GHBZ18_12540_B08_15_8b.jpg',
+      'https://www.vegrecipesofindia.com/wp-content/uploads/2014/10/chakli-3.jpg',
     photosArray: [
-      'https://dadwithapan.com/wp-content/uploads/2015/07/Spicy-Chicken-Fajitas-22-1200x480.jpg',
-      'https://3.bp.blogspot.com/-X-dHj7ORF9Q/XH4ssgTuSZI/AAAAAAAAEig/E46HP9wCfdsvyJFcMTX30cw-ICep8lF9ACHMYCw/s1600/chicken-fajitas-mexican-food-id-149559-buzzerg.jpg',
-      'https://cdn-image.foodandwine.com/sites/default/files/styles/medium_2x/public/201403-xl-chipotle-chicken-fajitas.jpg?itok=ghVcI5SQ'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBtHyYg9v00pKTb4hgTl1gSZ8xV9vFx7iaaggqNSB_Ez3oEtOZdNw6DOJhDXuyotYVTA&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKID6DIRpDXiuZaafIq1mB5ZLS38AXD5yk5mufRX0ILrW7jJ0dNGYjzVIgNcYXmm3b55I&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXvgdj09gjiF4QmADHxaL-T5znAZ45cXp1I63r9qk5CwFWO0oE323tMA45LYB3kjjuaHc&usqp=CAU'
     ],
-    time: 35,
+    time: 70,
     ingredients: [
       [9, '1/2 teaspoons'],
       [0, '4 tablespoons'],
@@ -214,12 +205,12 @@ export const recipes = [
       [38, '1/2']
     ],
     description:
-      '-- In a large bowl, combine 2 tablespoons oil, lemon juice and seasonings; add the chicken. Turn to coat; cover. Refrigerate for 1-4 hours In a large skillet, saute peppers and onions in remaining oil until crisp-tender. Remove and keep warm. Drain chicken, discarding marinade. In the same skillet, cook chicken over medium-high heat for 5-6 minutes or until no longer pink.\n\n -- Return pepper mixture to pan; heat through. Spoon filling down the center of tortillas; fold in half. Serve with toppings as desired.'
+      '1. કણક તૈયાર કરો:એક મિક્સિંગ બાઉલમાં, ચોખાનો લોટ, ચણાનો લોટ (બેસન), જીરું, તલ, લાલ મરચું પાવડર, હળદર પાવડર, હિંગ (હિંગ), મીઠું અને તેલ ભેગું કરો.ઘટકોને સારી રીતે મિક્સ કરો, અને પછી ધીમે ધીમે પાણી ઉમેરો જેથી કણક મજબૂત બને. કણક મુલાયમ અને લચી પડે ત્યાં સુધી ભેળવો. આ પગલું સામાન્ય રીતે લગભગ 15 થી 20 મિનિટ લે છે. \n\n 2. ચકરી મેકર તૈયાર કરો: ઉત્પાદકની સૂચના મુજબ ચકલી મેકર અથવા કૂકી પ્રેસમાં સ્ટાર આકારની ડિસ્ક ફીટ કરો. \n\n 3. ચકરીને આકાર આપો અને ફ્રાય કરો: કણકનો એક ભાગ લો અને તેમાં ચકલી મેકર અથવા કૂકી પ્રેસ ભરો.તળવા માટે એક ઊંડા પેનમાં અથવા તપેલીમાં તેલ ગરમ કરો.ચકરી મેકરને મજબુત રીતે દબાવો અને ગ્રીસ કરેલી સપાટી પર અથવા સીધા ગરમ તેલમાં સર્પાકાર આકાર બનાવવા માટે તેને ગોળ ગતિમાં ફેરવો. ઇચ્છિત આકાર મેળવવા માટે આ પગલાને થોડી પ્રેક્ટિસની જરૂર છે.ચકરીને ગરમ તેલમાં ગોલ્ડન બ્રાઉન અને ક્રિસ્પી થાય ત્યાં સુધી તળો. સમાન રાંધવાની ખાતરી કરવા માટે તેમને નાના બેચમાં ફ્રાય કરો.રાંધ્યા પછી, ચકરીને તેલમાંથી કાઢી લો અને વધારાનું તેલ દૂર કરવા માટે કાગળના ટુવાલ પર કાઢી લો. તેમને ઠંડુ થવા દો. \n\n 4. પ્રક્રિયાને પુનરાવર્તિત કરો: બાકીના કણક સાથે શેકવાની અને શેકવાની પ્રક્રિયાને પુનરાવર્તિત કરો જ્યાં સુધી બધી ચક્રીઓ ન બની જાય. \n\n 5. સ્ટોર કરો અને સર્વ કરો:એકવાર ચક્રો સંપૂર્ણપણે રાંધ્યા પછી, ચપળતા જાળવવા માટે તેમને હવાચુસ્ત પાત્રમાં સંગ્રહિત કરો.ચકરીને નાસ્તા તરીકે અથવા સાથ તરીકે ચા સાથે સર્વ કરો.\n\n એકંદરે, તમે ચક્રી બનાવવા માટે લગભગ 1 થી 1.5 કલાક સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 6,
     categoryId: 2,
-    title: 'Buffalo Pizza',
+    title: 'Margherita Pizza',
     photo_url:
       'https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80',
     photosArray: [
@@ -245,35 +236,52 @@ export const recipes = [
       [46, '9 oz']
     ],
     description:
-      '-- Place a rack in upper third of oven. Place a large cast-iron skillet on rack and preheat oven to 500° (or as high as your oven will go). Place pizza dough in a large bowl, pour a little oil over, and turn to coat. Cover bowl with plastic and let dough proof at room temperature while pan and oven heat up.\n\n -- Meanwhile, cook hot sauce, marinara sauce, and butter in a medium saucepan over medium heat, stirring occasionally, until butter is melted. Stir in cream, reduce heat to low, and simmer, stirring occasionally, until slightly thickened and warmed through, about 10 minutes. Heat 1 Tbsp. oil in a large skillet over medium-high. Add chicken, toss to coat, then add ¼ cup Buffalo sauce.\n\n -- Cook chicken, tossing occasionally, until heated through, about 2 minutes. Reduce heat and simmer, stirring often, until chicken is well coated and sauce is slightly thickened, about 5 minutes. Meanwhile, whisk yogurt, lemon juice, celery salt, garlic powder, ¼ cup blue cheese, ½ tsp. pepper, and 2 Tbsp. water in a small bowl, adding more water if sauce seems too thick (it should be pourable); set aside.\n\n -- Turn out dough onto a lightly floured work surface. Shape with your hands into a round that’s slightly larger than the cast-iron skillet you’re using. Take hot skillet out of oven (watch that handle!) and place on a heatproof surface. Add a little flour to pan. Lay dough in skillet, then work edges of dough up sides of skillet with your fingertips (use a rubber spatula or wooden spoon if you’re nervous about touching the hot pan). Drizzle a little oil around inside edge of pan so that it trickles behind and underneath dough, which will encourage browning and help it release.\n\n -- Spread about ⅓ cup Buffalo sauce over dough. Arrange mozzarella over, then top with remaining ¼ cup blue cheese. Arrange chicken mixture on top. Bake pizza on top rack until crust and cheese are nicely browned, 15–20 minutes. Transfer skillet to stovetop (again, watch that handle!) and let pizza rest a few minutes. Using a spatula, slide pizza onto a cutting board or platter. Arrange celery over, then top with reserved blue cheese dressing. Season with pepper, then drizzle with oil.'
+      '1. પીઝા કણક તૈયાર કરો: એક મોટા બાઉલમાં લોટ, ખમીર, ખાંડ અને મીઠું મિક્સ કરો. સૂકા ઘટકોમાં ધીમે ધીમે પાણી અને ઓલિવ તેલ ઉમેરો, કણક બને ત્યાં સુધી મિશ્રણ કરો. કણકને લગભગ 10 મિનિટ સુધી ભેળવો જ્યાં સુધી તે સરળ અને સ્થિતિસ્થાપક ન બને. કણકને આરામ કરવા દો અને લગભગ 1 થી 1.5 કલાક સુધી ચઢવા દો જ્યાં સુધી તે કદમાં બમણું ન થાય.\n\n 2. ઓવનને પહેલાથી ગરમ કરો: તમારા પકાવવાની નાની ભઠ્ઠી શક્ય સૌથી વધુ તાપમાન (સામાન્ય રીતે લગભગ 475-500 °F અથવા 240-260 °C) પર ગરમ કરો. પ્રીહિટીંગમાં લગભગ 15-20 મિનિટનો સમય લાગી શકે છે.\n\n 3.  પિઝાને આકાર આપો: વધેલા કણકને નીચે પંચ કરો અને તેને ભાગોમાં વહેંચો. લોટવાળી સપાટી પર દરેક ભાગને પાતળા વર્તુળ અથવા ઇચ્છિત આકારમાં ફેરવો. \n\n 4. માર્ગેરિટા પિઝા એસેમ્બલ કરો:પીઝા સ્ટોન અથવા બેકિંગ શીટ પર રોલ્ડ-આઉટ કણક મૂકો.ટામેટાની ચટણીને કણક પર સરખી રીતે ફેલાવો, કિનારીઓ ફરતે નાની કિનારીઓ છોડી દો.તાજા મોઝેરેલા ચીઝના ટુકડા સાથે ટોચ.તાજા તુલસીના પાન, મીઠું અને ઓલિવ તેલના ઝરમર ઝરમર સાથે છંટકાવ.\n\n 5. પિઝા બેક કરો:એસેમ્બલ કરેલા પિઝાને પ્રીહિટેડ ઓવનમાં કાળજીપૂર્વક ટ્રાન્સફર કરો.લગભગ 10-15 મિનિટ માટે અથવા જ્યાં સુધી પોપડો ગોલ્ડન બ્રાઉન ન થાય અને ચીઝ બબલી અને સહેજ બ્રાઉન થાય ત્યાં સુધી બેક કરો. \n\n 6. સ્લાઇસ કરો અને સર્વ કરો: બેક થઈ જાય પછી, પિઝાને ઓવનમાંથી કાઢી લો અને થોડીવાર ઠંડુ થવા દો.માર્ગેરિટા પિઝાને ફાચર અથવા ચોરસમાં સ્લાઇસ કરો અને તેને ગરમાગરમ સર્વ કરો. \n\n એકંદરે, તમે માર્ગેરિટા પિઝા બનાવવા માટે લગભગ 1.5 થી 2 કલાકનો સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો, જેમાં કણકની તૈયારી, ઉગાડવામાં અને પકવવાનો સમય સામેલ છે. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 0,
     categoryId: 0,
-    title: 'Classic Lasagna',
-    photo_url: 'https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg',
+    title: 'Four Cheese ',
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpo0Dnxjbd-sxzVD4rd58NX0BQvPMglZ8AA&usqp=CAU',
     photosArray: [
-      "https://namelymarly.com/wp-content/uploads/2018/04/20180415_Beet_Lasagna_10.jpg",
-      'https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.al.com/home/bama-media/width600/img/news_impact/photo/burger-fijpg-57e7e5907630c2ad.jpg',
-      'https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1492718105/articles/2013/09/24/burger-king-s-new-french-fries-took-ten-years-to-develop/130923-gross-burger-tease_izz59e',
-      'https://aht.seriouseats.com/images/2012/02/20120221-193971-fast-food-fries-Burger-King-fries-2.jpg'
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2sjooTaKnq42MXJWD96bi-n4oeBJKQkC1Q&usqp=CAU",
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSedq-sbo9lakhfPdz5j0pyExMjtBsniMSDA&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXlaM7Zvvi0g9hHJpwv4q1B7m3dujI3KE9A&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Zl-3rUL7GjzoPVVitBMqjfTR9rZwoR6_PQ&usqp=CAU'
     ],
-    time: '15',
-    ingredients: [[0, '200ml'], [1, '5g'], [2, '300g']],
+    time: '30 -40',
+    ingredients: [
+      [39, '1 lb'],
+      [40, '1 cup'],
+      [41, '1/2 cup'],
+      [42, '1/4 cup'],
+      [43, '2 tablespoons'],
+      [44, '1/2 cup'],
+      [7, '1/4 teaspoons'],
+      [5, '1/4 teaspoons'],
+      [30, '1/4 teaspoons'],
+      [45, '2 oz'],
+      [12, 'for dusting'],
+      [4, '1/2 teaspoons'],
+      [47, '2'],
+      [46, '9 oz']
+    ],
+    // ingredients: [[0, '200ml'], [1, '1g'], [2, '300g']],
+
     description:
-      '-- Start with cleaned and peeled russet potatoes that you have cut into 3/8-inch match sticks. Place in bowl of very cold water: keep rinsing and changing the water until the water is clear; drain thoroughly and dry with paper towels or a clean lint-free kitchen towel.\n\n -- Meanwhile, you preheat your hot oil to 350 degrees F. Place prepared taters in oil and cook about 5 minutes. They will have that blond-tone color to them. \n\n -- Note: Once you add cold potatoes to the hot oil, the temperature of your oil is going to drop - you want it to be somewhere between 330 - 325 degrees F. \n\n -- Remove from oil; drain and cool. Now - either refrigerate until ready to finish cooking, or cool completely and freeze up to 3 months. To freeze properly - place completely cooled fries in single layer on tray and place in freezer until frozen. Then bag them.\n\n -- To finish cooking - preheat your oil to 400* F. Add your cold fries (which will drop the oil temp - which is fine because you want it near the 375 degrees F. temp) and cook a few minutes until done. Lightly salt them and shake well so that the salt distributes well and they are not salty.'
+      '1. પકાવવાની નાની ભઠ્ઠી પહેલાથી ગરમ કરો: તમારા પકાવવાની નાની ભઠ્ઠી તે પહોંચી શકે તેવા ઉચ્ચતમ તાપમાને, સામાન્ય રીતે 475-500°F (240-260°C) ની આસપાસ પહેલાથી ગરમ કરો. પ્રીહિટીંગમાં લગભગ 15-20 મિનિટનો સમય લાગી શકે છે. \n\n 2. પીઝા કણક તૈયાર કરો:જો તમે શરૂઆતથી કણક બનાવી રહ્યા છો, તો તેને તૈયાર કરવા અને વધવા માટે વધારાના સમયની જરૂર પડશે. તમે જે રેસીપીનો ઉપયોગ કરો છો તેના આધારે આમાં 1 થી 2 કલાકનો સમય લાગી શકે છે. વૈકલ્પિક રીતે, તમે સમય બચાવવા માટે પહેલાથી બનાવેલ પિઝા કણકનો ઉપયોગ કરી શકો છો. \n\n 3. કણકને રોલ આઉટ કરો: લોટવાળી સપાટી પર, પિઝાના કણકને ઇચ્છિત આકાર અને જાડાઈમાં ફેરવો. \n\n 4. ચાર ચીઝ પિઝા એસેમ્બલ કરો:કણક પર ટામેટાની ચટણીનું પાતળું પડ સરખી રીતે ફેલાવો, કિનારીઓ પર એક નાની સરહદ છોડી દો.ચટણી પર મોઝેરેલા, ચેડર, પ્રોવોલોન અને પરમેસન ચીઝનું મિશ્રણ છાંટો, આખા પિઝાને સરખી રીતે ઢાંકી દો.તમને જોઈતી કોઈપણ વધારાની ટોપિંગ્સ ઉમેરો, જેમ કે તાજા તુલસીનો છોડ, કાપેલા ટામેટાં અથવા અન્ય ઘટકો. \n\n 5. પિઝા બેક કરો:એસેમ્બલ કરેલા પિઝાને પીઝા સ્ટોન અથવા બેકિંગ શીટ પર કાળજીપૂર્વક સ્થાનાંતરિત કરો.પિઝાને પહેલાથી ગરમ કરેલા ઓવનમાં મૂકો અને લગભગ 12-15 મિનિટ માટે અથવા જ્યાં સુધી પોપડો ગોલ્ડન બ્રાઉન ન થાય અને ચીઝ બબલી અને સહેજ બ્રાઉન ન થાય ત્યાં સુધી બેક કરો. \n\n 6. સ્લાઇસ કરો અને સર્વ કરો:ફોર ચીઝ પિઝા બેક થઈ જાય એટલે તેને ઓવનમાંથી કાઢીને થોડીવાર ઠંડુ થવા દો.પિઝાને ફાચર અથવા ચોરસમાં સ્લાઇસ કરો અને તેને ગરમાગરમ સર્વ કરો. \n\n એકંદરે, તમે ચાર ચીઝ પિઝા બનાવવા માટે લગભગ 30 થી 40 મિનિટનો સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો, જેમાં કણક તૈયાર કરવા અને વધવા માટે જરૂરી કોઈપણ સમયને બાદ કરતાં. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 7,
-    categoryId: 2,
-    title: 'Spaghetti Carbonara',
-    photo_url: 'https://truffle-assets.imgix.net/655ce202-862-butternutsquashcarbonara-land.jpg',
+    categoryId: 4,
+    title: 'Faluda',
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdPIjysKs5r2lCYhnS5Yyu2UMcWG8HvTNuNw&usqp=CAU',
     photosArray: [
-      'https://ak3.picdn.net/shutterstock/videos/10431533/thumb/10.jpg',
-      'https://www.kcet.org/sites/kl/files/styles/kl_image_large/public/thumbnails/image/square_hero_desktop_2x_sfs_spaghetti_carbonara_clr-3.jpg?itok=T-rsBDIZ',
-      'https://cdn-image.foodandwine.com/sites/default/files/HD-201104-r-spaghetti-with-anchovy.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlcKGz4EBnDxW1-d70nPod7tljplOeV10Bg&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDu5F9jCYHQcCbpGJUKFfafNHGG0Wm_SzyQ&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTC-shj0V6Kr4JxdxKMNjo6wIwPDFW_4NQw&usqp=CAU'
     ],
-    time: 15,
+    time: 40,
     ingredients: [
       [48, '50g'],
       [49, '100g'],
@@ -285,17 +293,17 @@ export const recipes = [
       [4, '2 teaspoons']
     ],
     description:
-      '-- Put the egg yolks into a bowl, finely grate in the Parmesan, season with pepper, then mix well with a fork and put to one side. Cut any hard skin off the pancetta and set aside, then chop the meat. Cook the spaghetti in a large pan of boiling salted water until al dente.\n\n -- Meanwhile, rub the pancetta skin, if you have any, all over the base of a medium frying pan (this will add fantastic flavour, or use 1 tablespoon of oil instead), then place over a medium-high heat. Peel the garlic, then crush with the palm of your hand, add it to the pan and leave it to flavour the fat for 1 minute. Stir in the pancetta, then cook for 4 minutes, or until it starts to crisp up. Pick out and discard the garlic from the pan, then, reserving some of the cooking water, drain and add the spaghetti.\n\n -- Toss well over the heat so it really soaks up all that lovely flavour, then remove the pan from the heat. Add a splash of the cooking water and toss well, season with pepper, then pour in the egg mixture – the pan will help to cook the egg gently, rather than scrambling it. Toss well, adding more cooking water until it’s lovely and glossy. Serve with a grating of Parmesan and an extra twist of pepper.'
+      '1. ફાલુદાના બીજ પલાળી રાખો: ફાલુડાના બીજ (તુલસીના બીજ અથવા સબજાના બીજ)ને લગભગ 20-30 મિનિટ સુધી પાણીમાં પલાળીને જ્યાં સુધી તે ફૂલી જાય અને જિલેટીનસ બને ત્યાં સુધી શરૂ કરો. \n\n 2. ફાલુદા નૂડલ્સ તૈયાર કરો:એક વાસણમાં પાણી ઉકાળો અને તેમાં ફાલુદા નૂડલ્સ (વર્મીસેલી) ઉમેરો.પૅકેજ પરની સૂચનાઓને અનુસરીને નૂડલ્સને અલ ડેન્ટે સુધી રાંધો.એકવાર રાંધ્યા પછી, નૂડલ્સને ડ્રેઇન કરો અને રાંધવાની પ્રક્રિયાને રોકવા અને તેને ઠંડુ કરવા માટે ઠંડા પાણીથી કોગળા કરો. \n\n 3. દૂધનું મિશ્રણ તૈયાર કરો: એક અલગ વાસણમાં, દૂધ ગરમ કરો અને તમારા સ્વાદ અનુસાર તેને મધુર બનાવવા માટે ખાંડ ઉમેરો. વૈકલ્પિક રીતે, તમે વધારાની સુગંધ અને સ્વાદ માટે ગુલાબજળ, કેવરા પાણી અથવા એલચી પાવડર જેવા સ્વાદ પણ ઉમેરી શકો છો. દૂધના મિશ્રણને હલાવો. જ્યાં સુધી ખાંડ સંપૂર્ણપણે ઓગળી ન જાય. દૂધના મિશ્રણને ઓરડાના તાપમાને ઠંડુ થવા દો. \n\n 4. ફાલુદાને એસેમ્બલ કરો: સર્વિંગ ગ્લાસ અથવા બાઉલ લો અને ઘટકોને સ્તર આપવાનું શરૂ કરો. દરેક ગ્લાસના તળિયે એક ચમચી પલાળેલા ફાલુદાના બીજ ઉમેરીને પ્રારંભ કરો. બીજની ટોચ પર રાંધેલા અને ઠંડા કરેલા ફાલુદા નૂડલ્સનો એક સ્તર ઉમેરો. મધુર અને રેડો. નૂડલ્સ પર ફ્લેવર્ડ દૂધનું મિશ્રણ, ગ્લાસને અડધા રસ્તે ભરો. ટોચ પર તમારી પસંદગીના આઈસ્ક્રીમનો સ્કૂપ ઉમેરો.વૈકલ્પિક રીતે, તમે અદલાબદલી બદામ, ગુલાબની ચાસણી અથવા ફળોના ટુકડા જેવા વધારાના ટોપિંગ્સ પણ ઉમેરી શકો છો. જ્યાં સુધી તમે ચશ્મા ભરો નહીં ત્યાં સુધી ફાલુડાના બીજ, નૂડલ્સ, દૂધનું મિશ્રણ અને આઈસ્ક્રીમ સાથેના સ્તરોનું પુનરાવર્તન કરો. \n\n 5. ઠંડુ કરો અને સર્વ કરો: એસેમ્બલ કરેલા ફાલુદા ચશ્માને રેફ્રિજરેટરમાં મૂકો અને તેમને ઓછામાં ઓછા 1 થી 2 કલાક સુધી ઠંડુ થવા દો જેથી કરીને સ્વાદો ઓગળે અને ઘટકો ઠંડા થાય.ઠંડું થઈ જાય પછી, ફાલુદાને ચમચી અને સ્ટ્રો વડે ઠંડુ સર્વ કરો. \n\n એકંદરે, તમે ફાલુદા બનાવવા માટે લગભગ 30 થી 40 મિનિટનો સક્રિય સમય પસાર કરવાની અપેક્ષા રાખી શકો છો, કોઈપણ ઠંડકના સમયને બાદ કરતાં. યાદ રાખો કે આ સમય અંદાજિત છે અને વ્યક્તિગત રસોઈ તકનીકો અને તમે ઉપયોગ કરી રહ્યાં છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે.'
   },
   {
     recipeId: 8,
     categoryId: 2,
-    title: 'Lazania',
-    photo_url: 'https://images8.alphacoders.com/817/817353.jpg',
+    title: 'Spaghetti Carbonara.',
+    photo_url: 'https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-articleLarge-v2.jpg',
     photosArray: [
-      'https://previews.123rf.com/images/somegirl/somegirl1509/somegirl150900048/46103208-top-view-of-a-delicious-traditional-italian-lasagna-made-with-minced-beef-bolognese-sauce-topped-wit.jpg',
-      'https://truffle-assets.imgix.net/87f324e4-YOUTUBE-NO-TXT.00_03_19_14.Imagen_fija001.jpg',
-      'https://images4.alphacoders.com/817/817350.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1gu3wvs-W2QX1Y71RJw8aN0QUUziAZ1lPuPcA5PVNM-Dzw25cM90_vo3KYsehpYCWNN4&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVt6iRX5P8sBJLC5cVANpUrP0oRQ45o7v_DEDKLoV4WtPDtCdkGHXtUl2XUbwrkrAM4M&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmJlyrZoqYd7KaOmHwF6vO4OD_lHvfcuq8IsL8UJs2BkrmqZdZCBpGWoDpX80rE58bHw&usqp=CAU'
     ],
     time: 60,
     ingredients: [
@@ -318,42 +326,76 @@ export const recipes = [
       [57, '30 ounces']
     ],
     description:
-      '-- Cook noodles according to package directions; drain. Meanwhile, in a Dutch oven, cook sausage, beef and onion over medium heat 8-10 minutes or until meat is no longer pink, breaking up meat into crumbles. Add garlic; cook 1 minute. Drain. Stir in tomatoes, tomato paste, water, sugar, 3 tablespoons parsley, basil, fennel, 1/2 teaspoon salt and pepper; bring to a boil. Reduce heat; simmer, uncovered, 30 minutes, stirring occasionally. In a small bowl, mix egg, ricotta cheese, and remaining parsley and salt. Preheat oven to 375°. Spread 2 cups meat sauce into an ungreased 13x9-in. baking dish. Layer with 3 noodles and a third of the ricotta mixture. Sprinkle with 1 cup mozzarella cheese and 2 tablespoons Parmesan cheese.\n\n -- Repeat layers twice. Top with remaining meat sauce and cheeses (dish will be full). Bake, covered, 25 minutes. Bake, uncovered, 25 minutes longer or until bubbly. Let stand 15 minutes before serving.'
+      '1. પાણીને ઉકાળવું: સામાન્ય રીતે પાણીના વાસણને ઉકળવા માટે લગભગ 10 થી 15 મિનિટ લાગે છે. \n\n 2. પાસ્તા રાંધવા: પાસ્તાની બ્રાન્ડ અને જાડાઈના આધારે સ્પાઘેટ્ટી માટે રાંધવાનો સમય 8 થી 12 મિનિટનો હોઈ શકે છે. તમારે તેને ત્યાં સુધી રાંધવાની જરૂર પડશે જ્યાં સુધી તે અલ ડેન્ટે ન થાય, એટલે કે જ્યારે કરડવામાં આવે ત્યારે તે હજી પણ થોડી મક્કમતા ધરાવે છે. \n\n 3. ચટણી તૈયાર કરી રહ્યા છીએ: જ્યારે પાસ્તા રાંધે છે, ત્યારે તમે ચટણી તૈયાર કરવાનું શરૂ કરી શકો છો. આમાં સામાન્ય રીતે પેન્સેટા અથવા બેકનને ક્રિસ્પી થાય ત્યાં સુધી તળવા, ઇંડા, છીણેલું ચીઝ (જેમ કે પેકોરિનો રોમાનો અથવા પરમેસન) અને કાળા મરીને અલગ બાઉલમાં ભેળવી, અને પછી બધું એકસાથે ભેળવીને સામેલ કરવામાં આવે છે. \n\n 4. પાસ્તા અને ચટણીને ભેળવવીઃ પાસ્તા બફાઈ જાય અને નીતરી જાય પછી તેને તૈયાર કરેલી ચટણી સાથે મિક્સ કરવામાં આવે છે. પાસ્તામાંથી આવતી ગરમી કાચા ઈંડાને ચટણીમાં રાંધે છે, જે ક્રીમી ટેક્સચર બનાવે છે. આ પગલું સામાન્ય રીતે થોડી મિનિટો લે છે. \n\n એકંદરે, મલ્ટીટાસ્કીંગમાં તમારી કાર્યક્ષમતા અને તમે જે ચોક્કસ રેસીપી અનુસરો છો તેના આધારે સ્પાઘેટ્ટી કાર્બોનારા બનાવવામાં લગભગ 25 થી 40 મિનિટનો સમય લાગી શકે છે. પ્રક્રિયાને સુવ્યવસ્થિત કરવા માટે તમે રસોઈ શરૂ કરો તે પહેલાં તમારા બધા ઘટકો તૈયાર અને તૈયાર રાખવાનો હંમેશા સારો વિચાર છે.'
+  },
+
+  {
+    recipeId: 8,
+    categoryId: 1,
+    title: 'Dahi Vada',
+    photo_url: 'https://img.freepik.com/premium-photo/dahi-vada-bhalla-is-type-chaat-originating-from-indian-popular-south-asia_466689-1380.jpg?w=2000',
+    photosArray: [
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMV6yIkOueYzXXPp2YOXP3NC7MT6-XPAGBzAmM8LPorw44cZBcJMt08ADNjDBNuj2HXQ&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0ONBbEMo_zTshT_C7M3HZqpEJZxNswVC8jTnt8K227is4VD-SLxtLgiOq3sQClEVNY4&usqp=CAU',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3PLhljXRDR193Nk3LtI0GHJ9sIV9Tr9SYkzy76GpxEUjA3_FvthCcsW7sA0xEoMsqAXU&usqp=CAU'
+    ],
+    time: 60,
+    ingredients: [
+      [36, '1 large'],
+      [25, '1 pound'],
+      [51, '5 cloves'],
+      [52, '1 pound'],
+      [53, '1 pound'],
+      [54, '1 28 ounce can'],
+      [23, '2 6 ounce can'],
+      [55, '2 tablespoons'],
+      [56, '1/4 cup'],
+      [10, '1/2 cup'],
+      [1, '1/2 teaspoons'],
+      [58, '1 teaspoon'],
+      [4, '1/4 teaspoons'],
+      [16, '1 large'],
+      [46, '1 pound'],
+      [48, '1 cup'],
+      [57, '30 ounces']
+    ],
+    description:
+      '1.પલાળવું: વડા બનાવવા માટે વપરાતી દાળને લગભગ 4 થી 6 કલાક અથવા આખી રાત પાણીમાં પલાળી રાખવાની જરૂર છે. આ પલાળવાનો સમય મસૂરને નરમ થવા દે છે અને પીસવામાં સરળ બને છે. \n\n 2. ગ્રાઇન્ડીંગ: એકવાર દાળ પલાળીને, તેને એક સરળ બેટરમાં ગ્રાઈન્ડ કરવાની જરૂર છે. તમારા ગ્રાઇન્ડરની શક્તિ અને કાર્યક્ષમતા પર આધાર રાખીને આ પ્રક્રિયામાં સામાન્ય રીતે 10 થી 15 મિનિટનો સમય લાગે છે. \n\n 3. આકાર આપવો અને તળવું: બેટર તૈયાર થઈ ગયા પછી, તમે નાના ગોળ વડાને આકાર આપશો અને તેલમાં તે ગોલ્ડન બ્રાઉન થાય ત્યાં સુધી તળો. ફ્રાઈંગ પ્રક્રિયામાં લગભગ 15 થી 20 મિનિટનો સમય લાગી શકે છે, જે તમારા ફ્રાઈંગ પાનના કદ અને તમે એક સાથે ફ્રાય કરી શકો તેટલા વડાઓની સંખ્યાના આધારે. \n\n 4. પાણીમાં પલાળીને: વડા તળાઈ જાય પછી તેને લગભગ 15 થી 20 મિનિટ સુધી પાણીમાં પલાળી રાખવાની જરૂર છે. આ પગલું વડાઓને નરમ કરવામાં અને વધારાનું તેલ દૂર કરવામાં મદદ કરે છે. \n\n 5. એસેમ્બલિંગ અને ચિલિંગ: પલાળ્યા પછી, વધારાનું પાણી દૂર કરવા માટે વડાઓને હળવા હાથે સ્ક્વિઝ કરવામાં આવે છે અને પછી સર્વિંગ ડીશમાં ટ્રાન્સફર કરવામાં આવે છે. તે પછી દહીં, વિવિધ ચટણીઓ અને મસાલાઓ સાથે ટોચ પર મૂકવામાં આવે છે. એસેમ્બલ કરેલા દહીં વડાઓને પીરસતાં પહેલાં ઓછામાં ઓછા 30 મિનિટથી એક કલાક સુધી રેફ્રિજરેટરમાં ઠંડું કરી શકાય છે. \n\n ધ્યાનમાં રાખો કે આ સમયનો અંદાજ અંદાજિત છે, અને વાસ્તવિક સમય તમારી રસોઈની ઝડપ અને તમે અનુસરો છો તે ચોક્કસ રેસીપીના આધારે બદલાઈ શકે છે. ચોક્કસ સૂચનાઓ અને સમય માટે વિગતવાર રેસીપીનો સંદર્ભ લેવો હંમેશા સારો વિચાર છે.'
   }
 ];
 
 export const ingredients = [
   {
     ingredientId: 0,
-    name: 'Oil',
-    photo_url: 'https://ak7.picdn.net/shutterstock/videos/27252067/thumb/11.jpg'
+    name: 'ચણાનો લોટ (બેસન)',
+    photo_url: 'https://images.eatthismuch.com/img/3641_TheKetogenicVegan_c4f8b80a-a966-4c43-95c8-9ea522d6546d.jpg'
   },
   {
     ingredientId: 1,
-    name: 'Salt',
+    name: 'સૂજી રાવા',
     photo_url:
-      'https://image.freepik.com/free-photo/sea-salt-wooden-bowl-isolated-white-background_29402-416.jpg'
+      'https://cdn.shopify.com/s/files/1/0512/2782/0191/products/SOOJI_RAVA_-_1_KG_1200x1200.png?v=1622195001'
   },
   {
     ingredientId: 2,
-    name: 'Russet potatoes',
-    photo_url: 'http://www.valleyspuds.com/wp-content/uploads/Russet-Potatoes-cut.jpg'
+    name: 'દહીં',
+    photo_url: 'https://cdn.gstv.in/wp-content/uploads/2019/06/curd.jpg'
   },
   {
     ingredientId: 3,
-    name: 'Paprika',
+    name: 'Oil',
     photo_url:
-      'https://image.freepik.com/free-photo/red-chilli-pepper-powder-isolated-white-background_55610-28.jpg'
+      'https://post.healthline.com/wp-content/uploads/2022/02/olive-oil-pour-732x549-thumbnail-732x549.jpg'
   },
   {
     ingredientId: 4,
-    name: 'Black Pepper',
-    photo_url: 'https://ak0.picdn.net/shutterstock/videos/26741680/thumb/1.jpg'
+    name: 'Namak',
+    photo_url: 'https://gaudhuli.com/wp-content/uploads/2020/11/SENDHA-NAMAK.png'
   },
   {
     ingredientId: 5,
     name: 'Celery salt',
-    photo_url: 'https://www.hasiroglugurme.com/images/urunler/Koftelik-Esmer-Bulgur-resim-297.jpg'
+    photo_url: 'https://cdn-prod.medicalnewstoday.com/content/images/articles/322/322745/salt-shaker.jpg'
   },
   {
     ingredientId: 6,
@@ -363,9 +405,9 @@ export const ingredients = [
   },
   {
     ingredientId: 7,
-    name: 'Garlic powder',
+    name: 'હિંગ',
     photo_url:
-      'https://us.123rf.com/450wm/belchonock/belchonock1808/belchonock180818180/106007144-bowl-of-dry-garlic-powder-on-white-background.jpg?ver=6'
+      'https://cdn.britannica.com/99/205799-050-46B0471A/Bowl-asafoetida-resin-spice-Iran-India.jpg'
   },
   {
     ingredientId: 8,
@@ -390,13 +432,13 @@ export const ingredients = [
   },
   {
     ingredientId: 12,
-    name: 'All-purpose flour',
+    name: 'Lila Marcha',
     photo_url:
-      'https://images.assetsdelivery.com/compings_v2/seregam/seregam1309/seregam130900036.jpg'
+      'https://cdn3.mydukaan.io/app/image/700x700/?url=https://projecteagle.s3.ap-south-1.amazonaws.com/images/aa150a84-92bc-46aa-9d4c-ecf28d051b29.jpg'
   },
   {
     ingredientId: 13,
-    name: 'Brown sugar',
+    name: 'ખાંડ',
     photo_url:
       'https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BALQTtekliuc6iu4u/rotating-brown-sugar-in-a-white-container-on-white-background_sis0xtbyl_thumbnail-full01.png'
   },
@@ -414,9 +456,9 @@ export const ingredients = [
   },
   {
     ingredientId: 16,
-    name: 'Eggs',
+    name: 'લોટ',
     photo_url:
-      'https://image.shutterstock.com/image-photo/egg-whites-yolk-cup-isolated-260nw-1072453787.jpg'
+      'https://static.toiimg.com/photo/76493322.cms '
   },
   {
     ingredientId: 17,
@@ -427,25 +469,25 @@ export const ingredients = [
   {
     ingredientId: 18,
     name: 'Water',
-    photo_url: 'https://ak1.picdn.net/shutterstock/videos/829561/thumb/11.jpg'
+    photo_url: 'https://www.columbiatribune.com/gcdn/authoring/2017/12/19/NCDT/ghows-MO-60bac901-9286-1981-e053-0100007facbf-4742d31d.jpeg'
   },
   {
     ingredientId: 19,
-    name: 'Onion Powder',
+    name: 'રાઈ ના દાણા',
     photo_url:
-      'https://image.shutterstock.com/image-photo/mixed-spices-isolated-on-white-260nw-662383828.jpg'
+      'https://m.media-amazon.com/images/I/51coKUr87JL.jpg'
   },
   {
     ingredientId: 20,
-    name: 'MSG',
+    name: 'બદામ',
     photo_url:
-      'https://img.freepik.com/free-photo/monosodium-glutamate-wood-spoon-white-background_55883-399.jpg?size=626&ext=jpg'
+      'https://d1mtigb6sukqjy.cloudfront.net/wp-content/uploads/2022/05/almond-benefits.jpg?width=1280&enlarge=true'
   },
   {
     ingredientId: 21,
-    name: 'Chicken Breast',
+    name: 'કોથમરી',
     photo_url:
-      'https://us.123rf.com/450wm/utima/utima1602/utima160200063/53405187-raw-chicken-breast-fillets.jpg?ver=6'
+      'https://rukminim1.flixcart.com/image/416/416/l0wrafk0/plant-seed/g/t/k/50-la2873-paudha-original-imagchat7pzhyeym.jpeg?q=70'
   },
   {
     ingredientId: 22,
@@ -454,15 +496,15 @@ export const ingredients = [
   },
   {
     ingredientId: 23,
-    name: 'Tomato paste',
+    name: 'દહીં',
     photo_url:
-      'http://d3e1m60ptf1oym.cloudfront.net/45bab59a-363c-11e1-ab4e-bf4c2e0bb026/PANELA_xgaplus.jpg'
+      'https://cdn.gstv.in/wp-content/uploads/2019/06/curd-960x640.jpg'
   },
   {
     ingredientId: 24,
-    name: 'Chilli Powder',
+    name: 'હળદર પાવડર',
     photo_url:
-      'https://us.123rf.com/450wm/nuttapong/nuttapong1505/nuttapong150500009/40458002-paprika-powder-isolated-on-white-background.jpg?ver=6'
+      'https://img.gujaratijagran.com/2022/10/Know-about-white-turmeric-and-yellow-turmeric.jpg'
   },
   {
     ingredientId: 25,
@@ -597,14 +639,14 @@ export const ingredients = [
   },
   {
     ingredientId: 48,
-    name: 'Parmesan Chesse',
-    photo_url: 'https://ak7.picdn.net/shutterstock/videos/3721877/thumb/1.jpg'
+    name: 'Chokolate',
+    photo_url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIgyOSNRnkWhMxFTrrdt-qEhjdF8v7XykdBEXNejusgAGERtK3zBIMlBr9T8ZdqKHYjyg&usqp=CAU'
   },
   {
     ingredientId: 49,
-    name: 'pancetta',
+    name: 'Fruits',
     photo_url:
-      'https://previews.123rf.com/images/onlyfabrizio/onlyfabrizio1606/onlyfabrizio160600002/60198502-raw-stripes-of-pancetta-stesa-on-a-white-background.jpg'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XVk2yxr9jlFAV4Ut8fpoKU1mS7HWUujD-Q&usqp=CAU'
   },
   {
     ingredientId: 50,
@@ -661,9 +703,9 @@ export const ingredients = [
   },
   {
     ingredientId: 59,
-    name: 'Banana',
+    name: 'Milk',
     photo_url:
-      'https://www.conservationmagazine.org/wp-content/uploads/2013/04/sterile-banana.jpg'
+      'https://hips.hearstapps.com/hmg-prod/images/health-benefits-of-goat-milk-1586900792.jpg?crop=0.668xw:1.00xh;0.259xw,0&resize=1200:*'
   },
   {
     ingredientId: 60,
@@ -677,4 +719,37 @@ export const ingredients = [
     photo_url:
       'http://images.media-allrecipes.com/userphotos/960x960/3758635.jpg'
   },
+
+  // Farali Pattice
+  {
+    ingredientId: 62,
+    name: 'બટાટા',
+    photo_url:
+      'https://middaycdn.s.llnwi.net/Image_GMD/images/2019/dec/potatoes_d.jpg'
+  },
+  {
+    ingredientId: 63,
+    name: 'જીરું',
+    photo_url:
+      'https://control.vegemarket.in/files/item/image_file/6084178a-5100-4537-ae75-4a5f5f6fe668/md_Jeera.jpg'
+  },
+  {
+    ingredientId: 64,
+    name: 'આદુ',
+    photo_url:
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSar5Aab-HHBTh7yConPwVHLFFMcKJNsnDS5fjblbBnoHLAGhp-6jSzwH3ajQjqrWuC8DI&usqp=CAU'
+  },
+  {
+    ingredientId: 65,
+    name: 'Lemon',
+    photo_url:
+      'https://www.starhealth.in/blog/wp-content/uploads/2022/12/cropped-01-4.jpg'
+  },
+  {
+    ingredientId: 66,
+    name: 'મેંદા નો લોટ',
+    photo_url:
+      'https://cdn.shopify.com/s/files/1/0086/0556/5024/files/Maida_Flour_F-min.jpg?v=1683197982'
+  },
+
 ];
