@@ -5,6 +5,7 @@ const { width, height } = Dimensions.get('window');
 // orientation must fixed
 const SCREEN_WIDTH = width < height ? width : height;
 
+
 const recipeNumColums = 2;
 // item size
 const RECIPE_ITEM_HEIGHT = 150;

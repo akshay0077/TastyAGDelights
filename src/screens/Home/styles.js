@@ -8,4 +8,5 @@ const styles = StyleSheet.create({
   category: RecipeCard.category
 });
 
+
 export default styles;

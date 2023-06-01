@@ -32,6 +32,7 @@ export default function IngredientScreen(props) {
     </TouchableHighlight>
   );
 
+  
   return (
     <ScrollView style={styles.mainContainer}>
       <View style={{ borderBottomWidth: 0.4, marginBottom: 10, borderBottomColor: "grey" }}>

@@ -5,6 +5,7 @@ import MenuImage from "../../components/MenuImage/MenuImage";
 import { getCategoryName, getRecipesByRecipeName, getRecipesByCategoryName, getRecipesByIngredientName } from "../../data/MockDataAPI";
 import { TextInput } from "react-native-gesture-handler";
 
+
 export default function SearchScreen(props) {
   const { navigation } = props;
 

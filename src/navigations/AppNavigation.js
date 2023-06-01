@@ -11,6 +11,7 @@ import IngredientScreen from '../screens/Ingredient/IngredientScreen';
 import SearchScreen from '../screens/Search/SearchScreen';
 import IngredientsDetailsScreen from '../screens/IngredientsDetails/IngredientsDetailsScreen';
 
+
  const Stack = createStackNavigator();
 
 function MainNavigator() {
