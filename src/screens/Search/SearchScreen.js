@@ -23,14 +23,14 @@ export default function SearchScreen(props) {
       ),
       headerTitle: () => (
         <View style={styles.searchContainer}>
-          <Image style={styles.searchIcon} source={require("../../../assets/icons/search.png")} />
+          <Image style={styles.searchIcon} source={require("../../../search.png")} />
           <TextInput
             style={styles.searchInput}
             onChangeText={handleSearch}
             value={value}
           />
           <Pressable onPress={() => handleSearch("")}>
-          <Image style={styles.searchIcon} source={require("../../../assets/icons/close.png")} />
+          <Image style={styles.searchIcon} source={require("../../../close.png")} />
           </Pressable>
         </View>
       ),

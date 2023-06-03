@@ -109,7 +109,7 @@ export default function RecipeScreen(props) {
         <View style={styles.infoContainer}>
           <Image
             style={styles.infoPhoto}
-            source={require("../../../assets/icons/time.png")}
+            source={require("../../../time.png")}
           />
           <Text style={styles.infoRecipe}>{item.time} minutes </Text>
         </View>
